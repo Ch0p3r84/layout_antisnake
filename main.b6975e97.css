@@ -1,0 +1,2 @@
+body{margin:0;color:#fff;font-size:100px;font-family:Arial,Helvetica,sans-serif;text-align:center}.asnake{display:grid;grid-template-columns:repeat(auto-fill,minmax(max(300px,33%),1fr))}.asnake__item{height:300px;line-height:300px}.asnake__item--1{background-color:rgb(255,0,0)}.asnake__item--2{background-color:rgb(204,0,0)}.asnake__item--3{background-color:rgb(153,0,0)}.asnake__item--4{background-color:rgb(102,0,0)}.asnake__item--5{background-color:rgb(51,0,0)}.asnake__item--6{background-color:rgb(0,0,0)}
+/*# sourceMappingURL=main.b6975e97.css.map */
